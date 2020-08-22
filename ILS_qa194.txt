@@ -1,0 +1,4 @@
+Best sol byILS... 
+Average Cost = 17513.681882071298
+Average Elapsed = 271.5611405246
+ 
