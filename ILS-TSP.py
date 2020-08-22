@@ -47,7 +47,7 @@ if __name__ == "__main__":
     """ALGORITHM FRAMEWORK"""
     algorithmName = "ILS"
     print("Best sol by" + algorithmName + "...")
-    file = "wi29.txt"
+    file = "data/wi29.txt"
 
     # problem configuration
     inputsTSP = load_data(file)

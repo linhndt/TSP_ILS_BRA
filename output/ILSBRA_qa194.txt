@@ -1,0 +1,4 @@
+Best sol byILSBRA... 
+Average Cost = 27335.792210710817
+Average Elapsed = 252.75922574179987
+ 

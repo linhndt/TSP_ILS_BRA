@@ -45,7 +45,7 @@ def localSearch(aSol, aCost, maxIter):
 if __name__ == "__main__":
     """ALGORITHM FRAMEWORK"""
     algorithmName = "ILSBRA"
-    file = "wi29.txt"
+    file = "data/wi29.txt"
     print("Best sol by" + algorithmName + "...")
 
     # problem configuration
